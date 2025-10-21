@@ -1,0 +1,3 @@
+[console_scripts]
+emg_ascii_plot = emg_device.emg_ascii_plot:main
+emg_node = emg_device.emg_node:main

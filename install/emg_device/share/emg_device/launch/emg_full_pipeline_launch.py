@@ -1,0 +1,1 @@
+/home/meow/ros2_ws/build/emg_device/launch/emg_full_pipeline_launch.py

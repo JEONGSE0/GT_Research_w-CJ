@@ -1,0 +1,46 @@
+[0.468s] Invoking command in '/home/meow/ros2_ws/src/emg_device': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/src/build/emg_device/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/emg_device build --build-base /home/meow/ros2_ws/src/build/emg_device/build install --record /home/meow/ros2_ws/src/build/emg_device/install.log --single-version-externally-managed install_data
+[0.588s] running egg_info
+[0.588s] creating ../build/emg_device/emg_device.egg-info
+[0.595s] writing ../build/emg_device/emg_device.egg-info/PKG-INFO
+[0.595s] writing dependency_links to ../build/emg_device/emg_device.egg-info/dependency_links.txt
+[0.595s] writing entry points to ../build/emg_device/emg_device.egg-info/entry_points.txt
+[0.596s] writing requirements to ../build/emg_device/emg_device.egg-info/requires.txt
+[0.596s] writing top-level names to ../build/emg_device/emg_device.egg-info/top_level.txt
+[0.596s] writing manifest file '../build/emg_device/emg_device.egg-info/SOURCES.txt'
+[0.611s] reading manifest file '../build/emg_device/emg_device.egg-info/SOURCES.txt'
+[0.612s] adding license file 'LICENSE'
+[0.612s] writing manifest file '../build/emg_device/emg_device.egg-info/SOURCES.txt'
+[0.612s] running build
+[0.612s] running build_py
+[0.612s] creating /home/meow/ros2_ws/src/build/emg_device/build
+[0.612s] creating /home/meow/ros2_ws/src/build/emg_device/build/lib
+[0.612s] creating /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device
+[0.612s] copying emg_device/__init__.py -> /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device
+[0.612s] copying emg_device/emg_node.py -> /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device
+[0.612s] copying emg_device/emg_ascii_plot.py -> /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device
+[0.612s] running install
+[0.615s] running install_lib
+[0.623s] creating /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device
+[0.623s] copying /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device/__init__.py -> /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device
+[0.623s] copying /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device/emg_node.py -> /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device
+[0.623s] copying /home/meow/ros2_ws/src/build/emg_device/build/lib/emg_device/emg_ascii_plot.py -> /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device
+[0.623s] byte-compiling /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device/__init__.py to __init__.cpython-312.pyc
+[0.623s] byte-compiling /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device/emg_node.py to emg_node.cpython-312.pyc
+[0.624s] byte-compiling /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device/emg_ascii_plot.py to emg_ascii_plot.cpython-312.pyc
+[0.625s] running install_data
+[0.625s] creating /home/meow/ros2_ws/src/install/emg_device/share/ament_index
+[0.625s] creating /home/meow/ros2_ws/src/install/emg_device/share/ament_index/resource_index
+[0.625s] creating /home/meow/ros2_ws/src/install/emg_device/share/ament_index/resource_index/packages
+[0.625s] copying resource/emg_device -> /home/meow/ros2_ws/src/install/emg_device/share/ament_index/resource_index/packages
+[0.625s] copying package.xml -> /home/meow/ros2_ws/src/install/emg_device/share/emg_device
+[0.625s] creating /home/meow/ros2_ws/src/install/emg_device/share/emg_device/launch
+[0.625s] copying launch/emg_signal_launch.py -> /home/meow/ros2_ws/src/install/emg_device/share/emg_device/launch
+[0.625s] creating /home/meow/ros2_ws/src/install/emg_device/share/emg_device/LICENSE
+[0.625s] copying LICENSE -> /home/meow/ros2_ws/src/install/emg_device/share/emg_device/LICENSE
+[0.626s] running install_egg_info
+[0.634s] Copying ../build/emg_device/emg_device.egg-info to /home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages/emg_device-0.1.3-py3.12.egg-info
+[0.634s] running install_scripts
+[0.690s] Installing emg_ascii_plot script to /home/meow/ros2_ws/src/install/emg_device/lib/emg_device
+[0.690s] Installing emg_node script to /home/meow/ros2_ws/src/install/emg_device/lib/emg_device
+[0.690s] writing list of installed files to '/home/meow/ros2_ws/src/build/emg_device/install.log'
+[0.704s] Invoked command in '/home/meow/ros2_ws/src/emg_device' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/src/build/emg_device/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/src/install/emg_device/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/emg_device build --build-base /home/meow/ros2_ws/src/build/emg_device/build install --record /home/meow/ros2_ws/src/build/emg_device/install.log --single-version-externally-managed install_data

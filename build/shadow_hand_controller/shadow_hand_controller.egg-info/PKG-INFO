@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: shadow-hand-controller
+Version: 0.0.0
+Summary: Relay PoseStamped from controller to Isaac Sim consumer topic.
+Maintainer: meow
+Maintainer-email: tj6774@gmail.com
+License: Apache-2.0

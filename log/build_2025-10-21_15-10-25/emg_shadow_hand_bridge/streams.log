@@ -1,0 +1,24 @@
+[0.574s] Invoking command in '/home/meow/ros2_ws/build/emg_shadow_hand_bridge': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/emg_shadow_hand_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/emg_shadow_hand_bridge/build --no-deps symlink_data
+[0.724s] running develop
+[0.806s] running egg_info
+[0.806s] creating emg_shadow_hand_bridge.egg-info
+[0.815s] writing emg_shadow_hand_bridge.egg-info/PKG-INFO
+[0.815s] writing dependency_links to emg_shadow_hand_bridge.egg-info/dependency_links.txt
+[0.815s] writing entry points to emg_shadow_hand_bridge.egg-info/entry_points.txt
+[0.815s] writing requirements to emg_shadow_hand_bridge.egg-info/requires.txt
+[0.815s] writing top-level names to emg_shadow_hand_bridge.egg-info/top_level.txt
+[0.815s] writing manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+[0.831s] reading manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+[0.831s] writing manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+[0.840s] running build_ext
+[0.840s] Creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages/emg-shadow-hand-bridge.egg-link (link to .)
+[0.840s] Installing shadow_hand_gesture_control script to /home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/emg_shadow_hand_bridge
+[0.840s] 
+[0.840s] Installed /home/meow/ros2_ws/build/emg_shadow_hand_bridge
+[0.840s] running symlink_data
+[0.841s] creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index
+[0.841s] creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index/resource_index
+[0.841s] creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index/resource_index/packages
+[0.841s] symbolically linking /home/meow/ros2_ws/build/emg_shadow_hand_bridge/resource/emg_shadow_hand_bridge -> /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index/resource_index/packages
+[0.841s] symbolically linking /home/meow/ros2_ws/build/emg_shadow_hand_bridge/package.xml -> /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/emg_shadow_hand_bridge
+[0.857s] Invoked command in '/home/meow/ros2_ws/build/emg_shadow_hand_bridge' returned '0': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/emg_shadow_hand_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/emg_shadow_hand_bridge/build --no-deps symlink_data

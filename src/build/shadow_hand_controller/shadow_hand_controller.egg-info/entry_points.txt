@@ -1,0 +1,3 @@
+[console_scripts]
+shadow_hand_keyctl = shadow_hand_controller.shadow_hand_keyctl:main
+shadow_hand_relay = shadow_hand_controller.shadow_hand_relay:main

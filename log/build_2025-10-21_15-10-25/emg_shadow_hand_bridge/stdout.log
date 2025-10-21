@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating emg_shadow_hand_bridge.egg-info
+writing emg_shadow_hand_bridge.egg-info/PKG-INFO
+writing dependency_links to emg_shadow_hand_bridge.egg-info/dependency_links.txt
+writing entry points to emg_shadow_hand_bridge.egg-info/entry_points.txt
+writing requirements to emg_shadow_hand_bridge.egg-info/requires.txt
+writing top-level names to emg_shadow_hand_bridge.egg-info/top_level.txt
+writing manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+reading manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+writing manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages/emg-shadow-hand-bridge.egg-link (link to .)
+Installing shadow_hand_gesture_control script to /home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/emg_shadow_hand_bridge
+
+Installed /home/meow/ros2_ws/build/emg_shadow_hand_bridge
+running symlink_data
+creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index
+creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index/resource_index
+creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/meow/ros2_ws/build/emg_shadow_hand_bridge/resource/emg_shadow_hand_bridge -> /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/ament_index/resource_index/packages
+symbolically linking /home/meow/ros2_ws/build/emg_shadow_hand_bridge/package.xml -> /home/meow/ros2_ws/install/emg_shadow_hand_bridge/share/emg_shadow_hand_bridge

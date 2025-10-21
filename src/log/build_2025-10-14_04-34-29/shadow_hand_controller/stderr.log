@@ -1,0 +1,1 @@
+error: [Errno 17] File exists: '/home/meow/ros2_ws/src/build/shadow_hand_controller/package.xml' -> '/home/meow/ros2_ws/src/install/shadow_hand_controller/share/shadow_hand_controller/package.xml'

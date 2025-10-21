@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: emg-device
+Version: 0.1.3
+Summary: ROS 2 EMG-only BLE driver (Float32MultiArray in microvolts).
+Maintainer: meow
+Maintainer-email: tj6774@gmail.com
+License: BSD-3-Clause
+License-File: LICENSE

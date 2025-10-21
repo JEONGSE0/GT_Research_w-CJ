@@ -1,0 +1,2 @@
+[console_scripts]
+shadow_hand_gesture_control = emg_shadow_hand_bridge.shadow_hand_gesture_control:main

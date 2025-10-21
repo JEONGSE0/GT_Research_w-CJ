@@ -1,0 +1,33 @@
+[0.579s] Invoking command in '/home/meow/ros2_ws/build/emg_device': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/emg_device/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/emg_device/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/emg_device/build --no-deps symlink_data
+[0.730s] running develop
+[0.810s] running egg_info
+[0.810s] creating emg_device.egg-info
+[0.819s] writing emg_device.egg-info/PKG-INFO
+[0.819s] writing dependency_links to emg_device.egg-info/dependency_links.txt
+[0.819s] writing entry points to emg_device.egg-info/entry_points.txt
+[0.819s] writing requirements to emg_device.egg-info/requires.txt
+[0.819s] writing top-level names to emg_device.egg-info/top_level.txt
+[0.819s] writing manifest file 'emg_device.egg-info/SOURCES.txt'
+[0.834s] reading manifest file 'emg_device.egg-info/SOURCES.txt'
+[0.835s] adding license file 'LICENSE'
+[0.835s] writing manifest file 'emg_device.egg-info/SOURCES.txt'
+[0.843s] running build_ext
+[0.843s] Creating /home/meow/ros2_ws/install/emg_device/lib/python3.12/site-packages/emg-device.egg-link (link to .)
+[0.844s] Installing emg_classifier_node script to /home/meow/ros2_ws/install/emg_device/lib/emg_device
+[0.844s] Installing emg_node script to /home/meow/ros2_ws/install/emg_device/lib/emg_device
+[0.844s] 
+[0.844s] Installed /home/meow/ros2_ws/build/emg_device
+[0.844s] running symlink_data
+[0.844s] creating /home/meow/ros2_ws/install/emg_device/share/ament_index
+[0.844s] creating /home/meow/ros2_ws/install/emg_device/share/ament_index/resource_index
+[0.844s] creating /home/meow/ros2_ws/install/emg_device/share/ament_index/resource_index/packages
+[0.844s] symbolically linking /home/meow/ros2_ws/build/emg_device/resource/emg_device -> /home/meow/ros2_ws/install/emg_device/share/ament_index/resource_index/packages
+[0.844s] symbolically linking /home/meow/ros2_ws/build/emg_device/package.xml -> /home/meow/ros2_ws/install/emg_device/share/emg_device
+[0.844s] creating /home/meow/ros2_ws/install/emg_device/share/emg_device/launch
+[0.844s] symbolically linking /home/meow/ros2_ws/build/emg_device/launch/emg_signal_launch.py -> /home/meow/ros2_ws/install/emg_device/share/emg_device/launch
+[0.844s] symbolically linking /home/meow/ros2_ws/build/emg_device/launch/emg_full_pipeline_launch.py -> /home/meow/ros2_ws/install/emg_device/share/emg_device/launch
+[0.844s] creating /home/meow/ros2_ws/install/emg_device/share/emg_device/LICENSE
+[0.844s] symbolically linking /home/meow/ros2_ws/build/emg_device/LICENSE -> /home/meow/ros2_ws/install/emg_device/share/emg_device/LICENSE
+[0.844s] creating /home/meow/ros2_ws/install/emg_device/share/emg_device/models
+[0.844s] symbolically linking /home/meow/ros2_ws/build/emg_device/emg_device/models/emg_cnn_model.pt -> /home/meow/ros2_ws/install/emg_device/share/emg_device/models
+[0.865s] Invoked command in '/home/meow/ros2_ws/build/emg_device' returned '0': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/emg_device/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/emg_device/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/emg_device/build --no-deps symlink_data

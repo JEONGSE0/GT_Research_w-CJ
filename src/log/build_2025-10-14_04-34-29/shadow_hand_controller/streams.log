@@ -1,0 +1,20 @@
+[0.377s] Invoking command in '/home/meow/ros2_ws/src/build/shadow_hand_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/src/build/shadow_hand_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/src/install/shadow_hand_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/src/build/shadow_hand_controller/build --no-deps symlink_data
+[0.528s] running develop
+[0.613s] running egg_info
+[0.621s] writing shadow_hand_controller.egg-info/PKG-INFO
+[0.621s] writing dependency_links to shadow_hand_controller.egg-info/dependency_links.txt
+[0.621s] writing entry points to shadow_hand_controller.egg-info/entry_points.txt
+[0.621s] writing requirements to shadow_hand_controller.egg-info/requires.txt
+[0.621s] writing top-level names to shadow_hand_controller.egg-info/top_level.txt
+[0.638s] reading manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+[0.638s] writing manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+[0.647s] running build_ext
+[0.647s] Creating /home/meow/ros2_ws/src/install/shadow_hand_controller/lib/python3.12/site-packages/shadow-hand-controller.egg-link (link to .)
+[0.647s] Installing shadow_hand_keyctl script to /home/meow/ros2_ws/src/install/shadow_hand_controller/lib/shadow_hand_controller
+[0.648s] Installing shadow_hand_relay script to /home/meow/ros2_ws/src/install/shadow_hand_controller/lib/shadow_hand_controller
+[0.648s] 
+[0.648s] Installed /home/meow/ros2_ws/src/build/shadow_hand_controller
+[0.648s] running symlink_data
+[0.648s] symbolically linking /home/meow/ros2_ws/src/build/shadow_hand_controller/package.xml -> /home/meow/ros2_ws/src/install/shadow_hand_controller/share/shadow_hand_controller
+[0.648s] error: [Errno 17] File exists: '/home/meow/ros2_ws/src/build/shadow_hand_controller/package.xml' -> '/home/meow/ros2_ws/src/install/shadow_hand_controller/share/shadow_hand_controller/package.xml'
+[0.664s] Invoked command in '/home/meow/ros2_ws/src/build/shadow_hand_controller' returned '1': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/src/build/shadow_hand_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/src/install/shadow_hand_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/src/build/shadow_hand_controller/build --no-deps symlink_data

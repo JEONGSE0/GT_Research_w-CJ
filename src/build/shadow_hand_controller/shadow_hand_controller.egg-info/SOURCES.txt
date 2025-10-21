@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+launch/follow_shadow_hand.launch.py
+resource/shadow_hand_controller
+shadow_hand_controller/__init__.py
+shadow_hand_controller/shadow_hand_control.py
+shadow_hand_controller/shadow_hand_keyctl.py
+shadow_hand_controller/shadow_hand_relay.py
+shadow_hand_controller.egg-info/PKG-INFO
+shadow_hand_controller.egg-info/SOURCES.txt
+shadow_hand_controller.egg-info/dependency_links.txt
+shadow_hand_controller.egg-info/entry_points.txt
+shadow_hand_controller.egg-info/requires.txt
+shadow_hand_controller.egg-info/top_level.txt
+shadow_hand_controller.egg-info/zip-safe

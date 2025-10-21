@@ -1,0 +1,17 @@
+[0.588s] Invoking command in '/home/meow/ros2_ws/build/emg_shadow_hand_bridge': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/emg_shadow_hand_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/emg_shadow_hand_bridge/build --no-deps symlink_data
+[0.741s] running develop
+[0.824s] running egg_info
+[0.832s] writing emg_shadow_hand_bridge.egg-info/PKG-INFO
+[0.832s] writing dependency_links to emg_shadow_hand_bridge.egg-info/dependency_links.txt
+[0.832s] writing entry points to emg_shadow_hand_bridge.egg-info/entry_points.txt
+[0.832s] writing requirements to emg_shadow_hand_bridge.egg-info/requires.txt
+[0.832s] writing top-level names to emg_shadow_hand_bridge.egg-info/top_level.txt
+[0.849s] reading manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+[0.849s] writing manifest file 'emg_shadow_hand_bridge.egg-info/SOURCES.txt'
+[0.858s] running build_ext
+[0.858s] Creating /home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages/emg-shadow-hand-bridge.egg-link (link to .)
+[0.858s] Installing shadow_hand_gesture_control script to /home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/emg_shadow_hand_bridge
+[0.858s] 
+[0.858s] Installed /home/meow/ros2_ws/build/emg_shadow_hand_bridge
+[0.858s] running symlink_data
+[0.873s] Invoked command in '/home/meow/ros2_ws/build/emg_shadow_hand_bridge' returned '0': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/emg_shadow_hand_bridge/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/emg_shadow_hand_bridge/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/emg_shadow_hand_bridge/build --no-deps symlink_data

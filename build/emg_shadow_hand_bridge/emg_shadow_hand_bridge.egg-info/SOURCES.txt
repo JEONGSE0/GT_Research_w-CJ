@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+emg_shadow_hand_bridge/__init__.py
+emg_shadow_hand_bridge/shadow_hand_gesture_control.py
+emg_shadow_hand_bridge.egg-info/PKG-INFO
+emg_shadow_hand_bridge.egg-info/SOURCES.txt
+emg_shadow_hand_bridge.egg-info/dependency_links.txt
+emg_shadow_hand_bridge.egg-info/entry_points.txt
+emg_shadow_hand_bridge.egg-info/requires.txt
+emg_shadow_hand_bridge.egg-info/top_level.txt
+emg_shadow_hand_bridge.egg-info/zip-safe
+resource/emg_shadow_hand_bridge

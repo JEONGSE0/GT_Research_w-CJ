@@ -1,0 +1,3 @@
+[console_scripts]
+emg_classifier_node = emg_device.emg_classifier_node:main
+emg_node = emg_device.emg_node:main

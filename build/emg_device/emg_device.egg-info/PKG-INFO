@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: emg-device
+Version: 0.2.0
+Summary: ROS 2 EMG driver + real-time gesture classification.
+Maintainer: meow
+Maintainer-email: tj6774@gmail.com
+License: BSD-3-Clause
+License-File: LICENSE

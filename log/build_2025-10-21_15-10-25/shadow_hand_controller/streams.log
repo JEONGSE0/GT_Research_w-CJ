@@ -1,0 +1,27 @@
+[0.573s] Invoking command in '/home/meow/ros2_ws/build/shadow_hand_controller': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/shadow_hand_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/shadow_hand_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/shadow_hand_controller/build --no-deps symlink_data
+[0.733s] running develop
+[0.822s] running egg_info
+[0.822s] creating shadow_hand_controller.egg-info
+[0.831s] writing shadow_hand_controller.egg-info/PKG-INFO
+[0.831s] writing dependency_links to shadow_hand_controller.egg-info/dependency_links.txt
+[0.831s] writing entry points to shadow_hand_controller.egg-info/entry_points.txt
+[0.831s] writing requirements to shadow_hand_controller.egg-info/requires.txt
+[0.831s] writing top-level names to shadow_hand_controller.egg-info/top_level.txt
+[0.832s] writing manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+[0.850s] reading manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+[0.850s] writing manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+[0.860s] running build_ext
+[0.861s] Creating /home/meow/ros2_ws/install/shadow_hand_controller/lib/python3.12/site-packages/shadow-hand-controller.egg-link (link to .)
+[0.861s] Installing shadow_hand_keyctl script to /home/meow/ros2_ws/install/shadow_hand_controller/lib/shadow_hand_controller
+[0.861s] Installing shadow_hand_relay script to /home/meow/ros2_ws/install/shadow_hand_controller/lib/shadow_hand_controller
+[0.861s] 
+[0.861s] Installed /home/meow/ros2_ws/build/shadow_hand_controller
+[0.861s] running symlink_data
+[0.861s] creating /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index
+[0.861s] creating /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index/resource_index
+[0.861s] creating /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index/resource_index/packages
+[0.861s] symbolically linking /home/meow/ros2_ws/build/shadow_hand_controller/resource/shadow_hand_controller -> /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index/resource_index/packages
+[0.861s] creating /home/meow/ros2_ws/install/shadow_hand_controller/share/shadow_hand_controller/launch
+[0.861s] symbolically linking /home/meow/ros2_ws/build/shadow_hand_controller/launch/follow_shadow_hand.launch.py -> /home/meow/ros2_ws/install/shadow_hand_controller/share/shadow_hand_controller/launch
+[0.861s] symbolically linking /home/meow/ros2_ws/build/shadow_hand_controller/package.xml -> /home/meow/ros2_ws/install/shadow_hand_controller/share/shadow_hand_controller
+[0.877s] Invoked command in '/home/meow/ros2_ws/build/shadow_hand_controller' returned '0': CONDA_PROMPT_MODIFIER=(test) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/meow/ros2_ws/build/shadow_hand_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/meow/ros2_ws/install/shadow_hand_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/meow/ros2_ws/build/shadow_hand_controller/build --no-deps symlink_data

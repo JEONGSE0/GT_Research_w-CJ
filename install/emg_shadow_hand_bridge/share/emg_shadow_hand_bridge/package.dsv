@@ -1,0 +1,9 @@
+source;share/emg_shadow_hand_bridge/hook/pythonpath.ps1
+source;share/emg_shadow_hand_bridge/hook/pythonpath.dsv
+source;share/emg_shadow_hand_bridge/hook/pythonpath.sh
+source;share/emg_shadow_hand_bridge/hook/ament_prefix_path.ps1
+source;share/emg_shadow_hand_bridge/hook/ament_prefix_path.dsv
+source;share/emg_shadow_hand_bridge/hook/ament_prefix_path.sh
+source;../../build/emg_shadow_hand_bridge/share/emg_shadow_hand_bridge/hook/pythonpath_develop.ps1
+source;../../build/emg_shadow_hand_bridge/share/emg_shadow_hand_bridge/hook/pythonpath_develop.dsv
+source;../../build/emg_shadow_hand_bridge/share/emg_shadow_hand_bridge/hook/pythonpath_develop.sh

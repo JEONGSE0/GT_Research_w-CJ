@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing emg_device.egg-info/PKG-INFO
+writing dependency_links to emg_device.egg-info/dependency_links.txt
+writing entry points to emg_device.egg-info/entry_points.txt
+writing requirements to emg_device.egg-info/requires.txt
+writing top-level names to emg_device.egg-info/top_level.txt
+reading manifest file 'emg_device.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'emg_device.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/meow/ros2_ws/install/emg_device/lib/python3.12/site-packages/emg-device.egg-link (link to .)
+Installing emg_classifier_node script to /home/meow/ros2_ws/install/emg_device/lib/emg_device
+Installing emg_node script to /home/meow/ros2_ws/install/emg_device/lib/emg_device
+
+Installed /home/meow/ros2_ws/build/emg_device
+running symlink_data

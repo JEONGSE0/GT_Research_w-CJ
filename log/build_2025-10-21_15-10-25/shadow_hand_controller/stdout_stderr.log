@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating shadow_hand_controller.egg-info
+writing shadow_hand_controller.egg-info/PKG-INFO
+writing dependency_links to shadow_hand_controller.egg-info/dependency_links.txt
+writing entry points to shadow_hand_controller.egg-info/entry_points.txt
+writing requirements to shadow_hand_controller.egg-info/requires.txt
+writing top-level names to shadow_hand_controller.egg-info/top_level.txt
+writing manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+reading manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+writing manifest file 'shadow_hand_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/meow/ros2_ws/install/shadow_hand_controller/lib/python3.12/site-packages/shadow-hand-controller.egg-link (link to .)
+Installing shadow_hand_keyctl script to /home/meow/ros2_ws/install/shadow_hand_controller/lib/shadow_hand_controller
+Installing shadow_hand_relay script to /home/meow/ros2_ws/install/shadow_hand_controller/lib/shadow_hand_controller
+
+Installed /home/meow/ros2_ws/build/shadow_hand_controller
+running symlink_data
+creating /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index
+creating /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index/resource_index
+creating /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index/resource_index/packages
+symbolically linking /home/meow/ros2_ws/build/shadow_hand_controller/resource/shadow_hand_controller -> /home/meow/ros2_ws/install/shadow_hand_controller/share/ament_index/resource_index/packages
+creating /home/meow/ros2_ws/install/shadow_hand_controller/share/shadow_hand_controller/launch
+symbolically linking /home/meow/ros2_ws/build/shadow_hand_controller/launch/follow_shadow_hand.launch.py -> /home/meow/ros2_ws/install/shadow_hand_controller/share/shadow_hand_controller/launch
+symbolically linking /home/meow/ros2_ws/build/shadow_hand_controller/package.xml -> /home/meow/ros2_ws/install/shadow_hand_controller/share/shadow_hand_controller
