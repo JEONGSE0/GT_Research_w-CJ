@@ -3,7 +3,7 @@
 ### Connect the EMG signal from the device to Isaac Sim.
 
 
-<img width="1080" height="608" alt="image" src="https://github.com/user-attachments/assets/876e6289-5bbe-4738-9266-75adca58c483" />
+<img width="880" height="408" alt="image" src="https://github.com/user-attachments/assets/876e6289-5bbe-4738-9266-75adca58c483" />
 
 
 ### emg_device
