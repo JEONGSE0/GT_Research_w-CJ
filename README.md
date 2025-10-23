@@ -9,9 +9,9 @@
 ### emg_device
 ---
 - launch
--   emg_signal_launch.py: find emg device & connect & publish data
--   emg_full_pipeline_launch.py: classify gesture through emg signal classification model in real time
+  - emg_signal_launch.py: find emg device & connect & publish data
+  - emg_full_pipeline_launch.py: classify gesture through emg signal classification model in real time
 
 
 - src
--   
+  -   
