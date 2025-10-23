@@ -12,6 +12,9 @@
   - emg_signal_launch.py: find emg device & connect & publish data
   - emg_full_pipeline_launch.py: classify gesture through emg signal classification model in real time
 
-
-- src
-  -   
+- emg_device
+  - emg_node.py: 
+  - emg_classifier_node.py: 
+  - real_time_filter.py: 
+  - model_emg.py: 
+  - emg_ascii_plot.py: 
